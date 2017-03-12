@@ -1,0 +1,22 @@
+#gamecontainer {
+	position: relative;
+	width: 800px;
+    height: 600px;
+}
+
+#gameWorld {
+	position: absolute;
+	/*z-index: 1;*/
+	border: 1px solid brown;
+	background: black;
+}
+
+
+#gameControl {
+	position: absolute;
+	top: 30px;
+	left: 880px;
+	width: 400px;
+	height: 700px;
+	color: black;
+}
